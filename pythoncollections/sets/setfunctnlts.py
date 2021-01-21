@@ -1,0 +1,12 @@
+str1={10,20,30,40,50}
+str2={10,60,80,70,50}
+#union
+st=str1.union(str2)
+print(st)
+#intersection
+ss=str1.intersection(str2)
+print(ss)
+#difference
+diff=str1.difference(str2)
+print(diff
+      )
