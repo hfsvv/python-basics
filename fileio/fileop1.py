@@ -6,6 +6,7 @@
 word=[]
 
 f=open("demo","r")
+print(f)
 for line in f:
     word.append(line.rstrip("\n").split(" "))
 print(word)
@@ -16,4 +17,4 @@ for lst in word:
 print(mywords)
 
 #print stud name who fails:set
-#highest repeating word from list:dict
+#highest repeating word from file list:dict

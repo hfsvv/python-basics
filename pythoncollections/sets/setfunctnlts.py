@@ -8,5 +8,4 @@ ss=str1.intersection(str2)
 print(ss)
 #difference
 diff=str1.difference(str2)
-print(diff
-      )
+print(diff)
