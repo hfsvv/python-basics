@@ -2,6 +2,7 @@ f=open("rept","r")
 dict={}
 for ch in f:
     words=ch.rstrip("\n").split(" ")
+    print(words)
     for word in words:
         if word not in dict:
             dict[word]=1
