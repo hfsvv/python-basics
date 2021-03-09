@@ -1,0 +1,40 @@
+body{
+    background-color: rosybrown;
+    background-image: url("pexels-eva-elijas-6141140.jpg");
+}
+h1{
+    color: silver;
+    text-align: center;
+}
+#nokia{
+    background-color: tomato;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 30%;
+    
+}
+#samsung{
+    background-color: yellow;
+    width: 30%;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+
+}
+#c3h{
+    color: blanchedalmond;
+}
+.first{
+    background-color: blue;
+    width: 30%;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+#mi{
+    text-align: center;
+}
+#iphone{
+    text-align: center;
+}

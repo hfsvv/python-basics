@@ -1,0 +1,25 @@
+div{
+    
+    width: 200px;
+    height: 400px;
+    margin-left: 6%;
+    margin-right: 2%;
+    margin-top: 5%;
+
+}
+.a{
+    background-color: red;
+    float: left;
+}
+.b{
+    background-color: gray;
+    float: left;
+}
+.c{
+    background-color: greenyellow;
+    float: left;
+}
+.r{
+    background-color: indigo;
+    float: left;
+}

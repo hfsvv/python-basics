@@ -1,0 +1,66 @@
+.header{
+    background-color: rgb(243, 229, 32);
+    color: white;
+    padding: 10px;
+}
+.header:hover{
+    color: white;
+    
+}
+.phnem{
+    text-align: center ;
+}
+.links{
+    color: white;
+    padding-right: 5px;
+}
+.sc{
+    margin-right: auto;
+    }
+
+.navbar-nav{
+    margin-left: 200px;
+    
+}
+.nav-item {
+    padding-right: 3.0rem;
+    padding-left: .5rem;
+}
+
+.section1{
+    color: yr;
+}
+.second{
+    background-color: yellow;
+    padding: 20px;
+    
+}
+.phnems{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.know{
+    height: 115%;
+}
+.know:hover{
+    background-color: tomato;
+}
+.phne{
+    padding: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.pr{
+    background: url(https://www.prathyasa.in/images/presentation-bg.jpg) 50% 0 repeat-y fixed;
+    height: auto;
+    padding: 75px 0px 60px 0px;
+    border-top: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+}
+.blinking {
+    animation: forwards 0.8s infinite;
+    text-align: center;
+}
+.dtsc{
+    line-height: 30px;
+}

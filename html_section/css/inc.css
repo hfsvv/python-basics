@@ -1,0 +1,29 @@
+body{
+    background-image: url("pexels-eva-elijas-6141140.jpg");
+}
+.first{
+    background-color:palegreen;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 30%;
+   
+}
+.second{
+    background-color: steelblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 30%;
+   
+}
+h1{
+    text-align: center;
+    color: papayawhip;
+}
+#c3h{
+    text-align: center;
+}
+#mt{
+    text-align: center;
+}

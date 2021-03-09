@@ -1,0 +1,39 @@
+.name{
+    padding-top: 5px;
+    color: rgba(7, 7, 7, 0.692);
+    
+}
+.title{
+    background-image: linear-gradient(to right,rgba(247, 74, 30, 0.932),rgb(248, 148, 33));
+    color: white;
+    padding: 5px;
+}
+.n1{
+    text-align: center;
+}
+.pt1{
+    padding: 10px;
+}
+.line{
+    background-image: linear-gradient(to right,rgba(247, 74, 30, 0.932),rgb(248, 148, 33));
+    width: 100%;
+    height: 5px;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    
+}
+.pt3{
+    line-height: ;
+}
+.bb{
+    font-weight: bold;
+}
+.aa{
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: tomato;
+}
+.cc{
+    font-weight: bold;
+    
+}
